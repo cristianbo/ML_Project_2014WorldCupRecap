@@ -1,0 +1,18 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: 561project.aux
+The style file: plain.bst
+Database file #1: 561project.bib
+Name 1 in "Huang, T.-K., Weng, R., and Lin, C.-J." has a comma at the end for entry huang2006generalized
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "Huang, T.-K., Weng, R., and Lin, C.-J." for entry huang2006generalized
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "Lange, K., Hunter, D. and Yang, I." for entry lange2000opt
+while executing---line 1049 of file plain.bst
+Warning--empty journal in agresti1990categorical
+Name 1 in "Huang, T.-K., Weng, R., and Lin, C.-J." has a comma at the end for entry huang2006generalized
+while executing---line 1090 of file plain.bst
+Too many commas in name 1 of "Huang, T.-K., Weng, R., and Lin, C.-J." for entry huang2006generalized
+while executing---line 1090 of file plain.bst
+Too many commas in name 1 of "Lange, K., Hunter, D. and Yang, I." for entry lange2000opt
+while executing---line 1090 of file plain.bst
+Warning--empty journal in luce1959individual
+(There were 6 error messages)

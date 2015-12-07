@@ -1,0 +1,11 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Model}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Bradley-Terry Model with ties}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Bayesian Linear Regression with Data Augmentation}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{Posterior Inference}{}% 5
+\BOOKMARK [2][-]{subsection.3.1}{A Gibbs sampler for Bradley-Terry Model with ties}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.2}{A Gibbs sampler for Bayesian Linear Regression}{section.3}% 7
+\BOOKMARK [1][-]{section.4}{Experimental Results}{}% 8
+\BOOKMARK [2][-]{subsection.4.1}{Bradley-Terry Model with ties}{section.4}% 9
+\BOOKMARK [2][-]{subsection.4.2}{Bayesian Linear Regression}{section.4}% 10
+\BOOKMARK [1][-]{section.5}{Conclusion}{}% 11

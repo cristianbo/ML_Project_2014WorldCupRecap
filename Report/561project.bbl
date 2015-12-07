@@ -1,0 +1,98 @@
+\begin{thebibliography}{10}
+
+\bibitem{agresti1990categorical}
+A.~Agresti.
+\newblock Categorical data analysis.
+\newblock 1990.
+
+\bibitem{albert2005anthology}
+Jim Albert, Jay Bennett, and James~J Cochran.
+\newblock {\em Anthology of statistics in sports}, volume~16.
+\newblock SIAM, 2005.
+
+\bibitem{baio2010bayesian}
+Gianluca Baio and Marta Blangiardo.
+\newblock Bayesian hierarchical model for the prediction of football results.
+\newblock {\em Journal of Applied Statistics}, 37(2):253--264, 2010.
+
+\bibitem{bradley1952rank}
+R.~Bradley and M.~Terry.
+\newblock Rank analysis of incomplete block designs. i. the method of paired
+  comparisons.
+\newblock {\em Biometrika}, 39:324--345, 1952.
+
+\bibitem{caron2012efficient}
+F.~Caron and A.~Doucet.
+\newblock Efficient bayesian inference for generalized bradley-terry models.
+\newblock {\em Journal of Computational and Graphical tatistics}, 21:174--196,
+  2012.
+
+\bibitem{gormley2009a}
+I.~Gormley and T.~Murphy.
+\newblock A grade of membership model for rank data.
+\newblock {\em Bayesian Analisis}, 4:265--296, 2009.
+
+\bibitem{guiver2009bayesian}
+J.~Guiver and E.~Snelson.
+\newblock Bayesian inference for plackett-luce ranking models.
+\newblock {\em International Conference on Machine Learning}, 2009.
+
+\bibitem{Hoff}
+Peter~D Hoff.
+\newblock {\em A first course in Bayesian statistical methods}.
+\newblock Springer, 2009.
+
+\bibitem{huang2006generalized}
+Weng~R. Huang, T.-K. and C.-J. Lin.
+\newblock Generalzied bradley-terry models and multi-class probability
+  estimates.
+\newblock {\em Journal of Machine Learning Research}, 7:85--115, 2006.
+
+\bibitem{hunter2004mm}
+D.~Hunter.
+\newblock Mm algorithms for generalzied bradley-terry models.
+\newblock {\em The Annals of Statistics}, 32:384--406, 2004.
+
+\bibitem{lange2000opt}
+Hunter~D. Lange, K. and I.~Yang.
+\newblock Optimization transfer using surrogate objective functions(with
+  discussion).
+\newblock {\em Journal of Computational and Graphical Statistics}, 9:1--59,
+  2000.
+
+\bibitem{lee1997modeling}
+Alan~J Lee.
+\newblock Modeling scores in the premier league: is {M}anchester {U}nited
+  really the best?
+\newblock {\em Chance}, 10(1):15--19, 1997.
+
+\bibitem{luce1959individual}
+R.~Luce.
+\newblock Individual choice behavior: A theoretical analysis.
+\newblock 1959.
+
+\bibitem{plackett1975the}
+R.~Plackett.
+\newblock The analysis of permutations.
+\newblock {\em Applied Statistics}, 24:193--202, 1975.
+
+\bibitem{rao1967ties}
+P.~Rao and L.~Kupper.
+\newblock Ties in paired-comparison experiments: A generalization of the
+  bradley-terry model.
+\newblock {\em Journal of the American Statistical Association}, 62:194--204,
+  1967.
+
+\bibitem{rue2000prediction}
+Havard Rue and Oyvind Salvesen.
+\newblock Prediction and retrospective analysis of soccer matches in a league.
+\newblock {\em Journal of the Royal Statistical Society: Series D (The
+  Statistician)}, 49(3):399--418, 2000.
+
+\bibitem{zermelo1929die}
+E.~Zermelo.
+\newblock Die berechnung der turnier-ergebnisse als ein maximum problem der
+  wahrscheinlichkeitsrechnung.
+\newblock {\em Math. Z.}, 29:436--460, 1929.
+
+\end{thebibliography}
